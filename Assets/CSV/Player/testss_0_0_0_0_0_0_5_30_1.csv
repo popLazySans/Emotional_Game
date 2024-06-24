@@ -1,0 +1,13 @@
+Date,time_from_start,character_Input,character_position.x,character_position.y,character_get,status_power,status_lighter,status_faster,Live,score
+1718466430767,129.0245,Up,-2.031373E-06,3.499188,,False,False,False,3,0
+1718466430948,129.2051,Right,-1.063888E-05,3.495068,,False,False,False,3,0
+1718466431290,129.5473,,2.699077,3.501652,,False,False,False,3,0
+1718466431487,129.7443,,4.298267,3.497403,,False,False,False,3,0
+1718466431564,129.82,,4.938267,3.495977,Pallet,False,False,False,3,0
+1718466431599,129.8568,Left,5.047007,3.498525,,False,False,False,3,10
+1718466431685,129.942,,4.269578,3.491452,,False,False,False,3,10
+1718466431885,130.142,,2.742748,3.51289,,False,False,False,3,10
+1718466432089,130.3472,,1.186179,3.500275,,False,False,False,3,10
+1718466432170,130.4269,Right,0.5500133,3.496643,,False,False,False,3,10
+1718466432286,130.544,,1.510013,3.499318,,False,False,False,3,10
+1718466432490,130.7474,,3.070381,3.500939,,False,False,False,3,10
